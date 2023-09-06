@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wasit Ali
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: https://t.me/qwerty_fi
+- 🌱 I’m currently learning Javascript and React
+- 📫 Feel free to get in touch with me via: [Telegram](https://t.me/qwerty_fi)
 
 <!---
 qwertyfi/qwertyfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
